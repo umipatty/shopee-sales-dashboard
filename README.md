@@ -1,4 +1,4 @@
-# shopee-sales-dashboard
+# Alkindi Pempek Sales Performance Analysis (Shopee)
 End-to-end e-commerce sales performance analysis using SQL and Tableau.
 
 ## About me
