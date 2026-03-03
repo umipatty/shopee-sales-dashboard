@@ -12,4 +12,5 @@ This portfolio project showcases my ability to perform end-to-end data analysis,
 Through this analysis, I demonstrate strong SQL skills for data cleaning and KPI calculation, business-oriented thinking in evaluating sales performance, and the ability to translate data into clear, actionable insights.
 
 ## Dashboard Preview
-![Shopee Sales Dashboard](dashboard.png) 
+![shopee-sales-dashboard](dashboard.png) 
+
