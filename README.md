@@ -14,7 +14,7 @@ The dataset consists of 403 rows of transaction-level e-commerce data covering t
 
 ## Dashboard Preview
 ![Dashboard Preview](Dashboard.png)
-This dashboard presents key metrics such as Total Net Sales, Total Orders, and Return Rate to evaluate store performance.
+This dashboard presents key metrics such as Total Net Sales, Total Orders, Average Order Value (AOV) and Cancelled Rate to evaluate store performance.
 
 ## Key Metrics
 The following KPIs were used to evaluate store performance:
