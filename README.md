@@ -7,9 +7,10 @@ Industrial Engineering graduate transitioning career into Data Analytics.
 Currently building practical experience through SQL-based analysis, data cleaning, and business performance projects.
 
 ## Portofolio Overview
-This portfolio project showcases my ability to perform end-to-end data analysis, starting from data preparation and transformation using SQL to generating business insights through Tableau visualization. The main objective of this project is to support my application for a Data Analyst or Business Intelligence Analyst role.
+This portfolio project showcases my ability to perform end-to-end data analysis, starting from data preparation and transformation using SQL to generating business insights through Tableau visualization. The main objective of this project is to support my application for a Data Analyst or Business Intelligence Analyst role. Through this analysis, I demonstrate strong SQL skills for data cleaning and KPI calculation, business-oriented thinking in evaluating sales performance, and the ability to translate data into clear, actionable insights.
 
-Through this analysis, I demonstrate strong SQL skills for data cleaning and KPI calculation, business-oriented thinking in evaluating sales performance, and the ability to translate data into clear, actionable insights.
+## Dataset Preview
+The dataset consists of 403 rows of transaction-level e-commerce data covering the period from July 2024 to November 2025. Each row represents product-level transaction details, including order status, pricing components, discount allocation, shipping cost, return quantity, and customer location information. The dataset contains multiple financial components such as seller discounts, platform discounts, vouchers, cashback, and shipping fees, enabling comprehensive revenue and cancellation analysis.
 
 ## Dashboard Preview
 ![Dashboard Preview](Dashboard.png)
@@ -41,14 +42,10 @@ Exploratory analysis was performed to examine sales trends over time, geographic
 - Revenue contribution is concentrated in certain cities, suggesting potential opportunities for targeted marketing strategies and regional performance optimization.
 Overall, this analysis serves as a foundation for deeper business diagnostics and strategic decision-making.
 
-## Project Resources
-- SQL Queries:
-- Tableu Dashboard
-
 ## Tools User
 - PostgreSQL (SQL) – Data extraction, transformation, and KPI calculation
 - Microsoft Excel – Data cleaning and format standardization
 - Tableau – Interactive dashboard development and visualization
 - GitHub – Project documentation and version control
 
-
+Data Source: https://www.kaggle.com/datasets/nugrahmaindonesa/shopee-seller-transaction 
